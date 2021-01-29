@@ -1,0 +1,32 @@
+---
+layout: base
+title: Blog
+---
+
+<ul class="blog-list">
+    {% for post in site.posts %}
+      <li class="blog-list__item">
+        <a class="blog-list__link" href="{{ post.url}}"> {{ post.title }}</a>
+        <span class="blog-list__tag">{{ post.tag }}</span>
+        <div class="blog-list__date">
+          {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%-d" }}
+          {% case m %}
+            {% when '1' %}January
+            {% when '2' %}February
+            {% when '3' %}March
+            {% when '4' %}April
+            {% when '5' %}May
+            {% when '6' %}June
+            {% when '7' %}July
+            {% when '8' %}August
+            {% when '9' %}September
+            {% when '10' %}October
+            {% when '11' %}November
+            {% when '12' %}December
+          {% endcase %}
+          {{ post.date | date: "%Y" }}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>

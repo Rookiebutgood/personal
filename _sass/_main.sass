@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&d..')
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap')
+
+$rich-black-fogra-29: #011627ff
+$baby-powder: #fdfffcff
+$tiffany-blue: #2ec4b6ff 
+$rose-madder: #e71d36ff
+$orange-peel: #ff9f1cff 
+
+*
+  font-family: 'Ubuntu'
+  margin: 0
+  padding: 0 
+
+body
+  background: #011627ff
+  padding: 0 220px
+
+h1, h2, h3, h4, h5, h6
+  color: #ff9f1cff
+  font-weight: bold
+  margin-bottom: 20px
+
+h1
+  font-size: 44px
+ 
+h2 
+  font-size: 40px
+
+h3 
+  font-size: 36px
+
+h4 
+  font-size: 32px
+
+h5 
+  font-size: 28px
+
+h6
+  font-size: 24px 
+
+p, li
+  font-size: 20px
+  color: #fdfffcff
+  margin: 10px 0
+
+li
+  list-style: none
+
+a 
+  color: #E71D36
+  text-decoration: none
+  &:hover
+    color: #2ec4b6ff
+
+.page__flexWrapper
+  display: flex
+  margin-bottom: 20px
+
+.page__titleWrapper
+  position: relative
+  padding-left: 35px
+
+.page__title 
+  text-transform: uppercase
+  margin: 0
+  display: inline-block
+  white-space: nowrap
+  overflow: hidden
+  letter-spacing: 2px
+  animation: type .3s steps(6, end)
+  &:before
+    content: '>'
+    font-size: 44px
+    font-weight: bold
+    color: #ff9f1cff
+    position: absolute
+    top: 0
+    left: 0
+  &:after
+    content: ''
+    position: absolute 
+    width: 20px
+    height: 5px
+    background: #ff9f1cff
+    bottom: 8px
+    right: -22px
+    animation: blink .75s step-end
+    animation-iteration-count: infinite
+
+@keyframes type
+  from
+    width: 0 
+  to
+    width: 100%
+
+@keyframes blink 
+  from, to
+    opacity: 0
+  50%
+    opacity: 1 

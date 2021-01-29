@@ -1,0 +1,44 @@
+.hokku
+  display: flex
+  position: relative
+  margin: 0 20px
+  &__kanji
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    min-width: 150px
+    animation: fade-out 1.5s ease
+  &__kanji-symbol
+    color: #fff
+    font-size: 72px
+  &__image
+    width: 35%
+    height: auto
+    animation: fade-out 1.5s ease
+  &__column
+    display: flex
+    flex-direction: column
+    justify-content: center
+    margin-left: 100px
+    p
+      font-size: 36px
+      animation: fade-right 1.5s ease
+    p:nth-of-type(2)
+      margin-left: 50px
+    p:nth-of-type(3)
+      margin-left: 100px
+
+@keyframes fade-out
+  from
+    opacity: 0
+  to
+    opacity: 1
+
+@keyframes fade-right
+  from
+    transform: translateX(50%)
+    opacity: 0
+  to
+    transform: translateX(0%)
+    opacity: 1

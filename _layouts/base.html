@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body>
+      {% include header.html %}
+      {% include page-title.html %}
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+    </footer>
+  </body>
+</html>
