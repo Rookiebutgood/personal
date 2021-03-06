@@ -1,22 +1,69 @@
-.hokku
+.hokku_hide
+  opacity: 0
+
+.hokku.hokku_horizontal
+  position: relative
   display: flex
+  justify-content: center
   position: relative
   margin: 0 20px
-  &__kanji
+  overflow: hidden
+  .hokku__kanji
+    position: absolute
+    background: black
+    padding: 20px 0
+    top: 20px
+    left: 80px
     display: flex
     flex-direction: column
     justify-content: center
     align-items: center
     min-width: 150px
     animation: fade-out 1.5s ease
-  &__kanji-symbol
+  .hokku__kanji-symbol
     color: #fff
     font-size: 72px
-  &__image
+  .hokku__image
+    width: 80%
+    height: auto
+    animation: fade-out 1.5s ease
+  .hokku__column
+    position: absolute
+    background: black
+    padding: 20px
+    bottom: 20px
+    right: 0
+    display: flex
+    flex-direction: column
+    justify-content: center
+    animation: fade-right 1.5s ease
+    p
+      font-size: 36px
+      animation: fade-right 1.5s ease
+    p:nth-of-type(2)
+      margin-left: 50px
+    p:nth-of-type(3)
+      margin-left: 100px
+
+.hokku.hokku_vertical
+  display: flex
+  position: relative
+  margin: 0 20px
+  .hokku__kanji
+    display: flex
+    flex-direction: column
+    justify-content: center
+    align-items: center
+    min-width: 150px
+    animation: fade-out 1.5s ease
+  .hokku__kanji-symbol
+    color: #fff
+    font-size: 72px
+  .hokku__image
     width: 35%
     height: auto
     animation: fade-out 1.5s ease
-  &__column
+  .hokku__column
     display: flex
     flex-direction: column
     justify-content: center

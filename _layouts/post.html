@@ -3,7 +3,7 @@ layout: base
 ---
 
 {% if page.tag == 'hokku' %}
-  <div class="hokku">
+  <div class="hokku hokku_hide">
     <img class="hokku__image" src="{{ site.baseurl }}{{page.image}}" />
     <div class="hokku__kanji">
       <div class="hokku__kanji-symbol">切</div>
@@ -21,3 +21,11 @@ layout: base
     {{ content }}
   </div>
 {% endif %}
+
+<script>
+  const wrapper = document.querySelector('.hokku')
+  const image = document.querySelector('.hokku__image')
+  image.onload = () => {
+    wrapper.className = image.width > image.height ? 'hokku hokku_horizontal' : 'hokku hokku_vertical'
+  }
+</script>
