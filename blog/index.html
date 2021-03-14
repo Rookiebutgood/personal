@@ -4,7 +4,7 @@ title: Blog
 ---
 
 <ul class="blog-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li class="blog-list__item">
         <a class="blog-list__link" href="{{ site.baseurl }}{{ post.url}}"> {{ post.title }}</a>
         <span class="blog-list__tag">{{ post.tag }}</span>
@@ -30,3 +30,11 @@ title: Blog
       </li>
     {% endfor %}
   </ul>
+  <div style="position: relative;">
+    {% if paginator.previous_page_path %}
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" style="position: absolute; left: 0">Назад</a>
+  {% endif %}
+  {% if paginator.next_page_path %}
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" style="position: absolute; right: 0">Дальше</a>
+  {% endif %}
+  </div>
