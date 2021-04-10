@@ -6,8 +6,10 @@ title: List of cool sites
 ###### List of cool sites, mostly from Awwwards
 
 * [Albino Tonnina](https://albinotonnina.com/) - Портфолио в виде истории
+* [Alibi brewing](https://alibibrewing.co.nz/) - Общий стиль, анимация с банками
 * [Bazzile](https://bazzile.ch/users) - Тиндер с квартирами
 * [Block Rage](https://blockrage.pgs-soft.com/) - Эмулятор старого компьютера
+* [Bluehamham](https://bluehamham.com/) - Промосайт синих хомячков
 * [Bold type hotel](https://theboldtypehotel.com/) - Просто и стильно
 * [Candy fish](https://candy.fish/) - Много рисунков с паралаксом
 * [Cetrucflotte](https://cetrucflotte.com/) - Стопки фотографий
@@ -26,12 +28,16 @@ title: List of cool sites
 * [Inspect this snake](https://matthewrayfield.com/goodies/inspect-this-snake/) - Автор запилил змейку внутри инспектора элементов
 * [Iron Velvet](https://ironvelvet.studio/) - Много крутых эффектов и графики
 * [Java Saga](https://javasagacoffee.com/) - Реклама кофейного ларька
+* [Mad](https://mad.ac/) - Крутой главный экран, который состоит из перетаскиваемых блоков
+* [Marseille laphase](https://marseille.laphase5.com/en) - Интерактивная карта
 * [Meltdown Flags](https://www.meltdownflags.org/) - Графики в виде флагов разных стран
 * [Menu durable](https://menudurable.ca/en/) - Правильный минимализм
 * [Metrica](https://www.metrica.us/) - Понравилась главная страница
 * [Moon Safari](https://www.moonsafari.archi/projets/) - Интересные переходы
+* [Mountaindew Rise](https://www.mountaindewrise.com/) - Крутой промо-сайт
 * [Orano](https://www.orano.group/experience/innovation/en/menu) - Много графики, есть интерактив типа управления краном
 * [Peace price](https://peaceprizelaureates.nobelpeacecenter.org/en) - Инфографика с людьми, которые получали премию мира
+* [Penderecki's garden](https://pendereckisgarden.pl/en) - Графика из частиц
 * [Pitch](https://pitch.com/) - Приятный сайт, интересный элемент hero
 * [Polygon](https://polygondesign.com.au/) - Крутой скролл с панорамным видом
 * [Poly Kole's paintings](https://pollykole.com/) - Портфолио художника в виде 3D тура
@@ -39,6 +45,7 @@ title: List of cool sites
 * [Powerhouse company](https://www.powerhouse-company.com/) - Крутые плитки с проектами
 * [SAP](https://www.sap.com/dmc/exp/2020-07-design-to-operate) - Интерактивная презентация
 * [Selmore](https://selmore.com/en/) - Общий стиль, переходы
+* [Signing](https://signing.co.jp/) - Общий стиль
 * [Singularity App](https://singularity-app.com/ru/#promo-screen) - Приятный дизайн
 * [Sketch of three.js](https://ykob.github.io/sketch-threejs/) - Крутой визуал на three.js
 * [Species in pieces](http://species-in-pieces.com/#) - low-poly графика и переходы
