@@ -10,6 +10,7 @@ title: List of cool sites
 * [Block Rage](https://blockrage.pgs-soft.com/){:target="_blank"} - Эмулятор старого компьютера
 * [Bluehamham](https://bluehamham.com/){:target="_blank"} - Промосайт синих хомячков
 * [Bold type hotel](https://theboldtypehotel.com/){:target="_blank"} - Просто и стильно
+* [CAAT pension](https://www.caatpension.ca/year-in-review-2020/en/){:target="_blank"} - Простое слайдшоу
 * [Candy fish](https://candy.fish/){:target="_blank"} - Много рисунков с паралаксом
 * [Car design history](https://www.cardesignhistory.com/){:target="_blank"} - инфографика, ретро автомобили
 * [Cetrucflotte](https://cetrucflotte.com/){:target="_blank"} - Стопки фотографий
@@ -33,35 +34,39 @@ title: List of cool sites
 * [Meltdown Flags](https://www.meltdownflags.org/){:target="_blank"} - Графики в виде флагов разных стран
 * [Menu durable](https://menudurable.ca/en/){:target="_blank"} - Правильный минимализм
 * [Metrica](https://www.metrica.us/){:target="_blank"} - Понравилась главная страница
-* [Moon Safari](https://www.moonsafari.archi/projets/) - Интересные переходы
-* [Mountaindew Rise](https://www.mountaindewrise.com/) - Крутой промо-сайт
-* [Orano](https://www.orano.group/experience/innovation/en/menu) - Много графики, есть интерактив типа управления краном
-* [Peace price](https://peaceprizelaureates.nobelpeacecenter.org/en) - Инфографика с людьми, которые получали премию мира
-* [Penderecki's garden](https://pendereckisgarden.pl/en) - Графика из частиц
-* [Pitch](https://pitch.com/) - Приятный сайт, интересный элемент hero
-* [Polygon](https://polygondesign.com.au/) - Крутой скролл с панорамным видом
-* [Poly Kole's paintings](https://pollykole.com/) - Портфолио художника в виде 3D тура
-* [Pottinghed](https://pottingshed.com/) - Крутой визуал
-* [Powerhouse company](https://www.powerhouse-company.com/) - Крутые плитки с проектами
-* [R64X](https://r64x.com/) - Галерея цифрового искусства
-* [SAP](https://www.sap.com/dmc/exp/2020-07-design-to-operate) - Интерактивная презентация
-* [Selmore](https://selmore.com/en/) - Общий стиль, переходы
-* [Signing](https://signing.co.jp/) - Общий стиль
-* [Singularity App](https://singularity-app.com/ru/#promo-screen) - Приятный дизайн
-* [Sketch of three.js](https://ykob.github.io/sketch-threejs/) - Крутой визуал на three.js
-* [Species in pieces](http://species-in-pieces.com/#) - low-poly графика и переходы
-* [Stanford](https://stanford.kiev.ua/) - Переходы и общий стиль
-* [Stonewave](https://www.stonewave.net/) - Стильный сайт студии
-* [Studio digital](https://www.studiodigital.at/) - Интересные карточки
-* [Superfluid](https://getsuperfluid.com/) - Стильно. Модно. Молодежно.
-* [Symbols 2](https://symbols.designessentials.co/) - Крутой скролл
-* [Teca](https://teca.ee/) - Минималистично и стильно, но купился на архитектуру
-* [Threejs journey](https://threejs-journey.xyz/) - Как надо продавать курсы по моделированию
-* [Ultrasupernew](https://ultrasupernew.com/) - Очень крутой 3D города
-* [Vazquez](https://www.vazquez.nl/) - Эффект наложения текста
-* [Virtual economy](https://atelier.net/virtual-economy/) - Длинный текст, полно интересных эффектов
-* [Will Rust](https://www.willrust.co/) - Аккуратное портфолио
-* [Yourra](https://yourra.fr/) - Веб-студия с приятным дизайном и гавайскими мотивами
-* [Yamauchi No.10 Family Office](https://y-n10.com/) - Шикарный визуал в стиле NES
-* [Мы с Урала](https://xn-----8kca8cc4agt0f.xn--p1ai/) - Виды уральских красот на креативном сайте
-* [123 Insurance](https://www.123.ie/) - Приятный дизайн
+* [Moon Safari](https://www.moonsafari.archi/projets/){:target="_blank"} - Интересные переходы
+* [Mountaindew Rise](https://www.mountaindewrise.com/){:target="_blank"} - Крутой промо-сайт
+* [Nasdaq 50](https://www.nasdaq50.com/stories/){:target="_blank"} - Интерактивный таймлайн
+* [Orano](https://www.orano.group/experience/innovation/en/menu){:target="_blank"} - Много графики, есть интерактив типа управления краном
+* [Peace price](https://peaceprizelaureates.nobelpeacecenter.org/en){:target="_blank"} - Инфографика с людьми, которые получали премию мира
+* [Penderecki's garden](https://pendereckisgarden.pl/en){:target="_blank"} - Графика из частиц
+* [Pitch](https://pitch.com/){:target="_blank"} - Приятный сайт, интересный элемент hero
+* [Polygon](https://polygondesign.com.au/){:target="_blank"} - Крутой скролл с панорамным видом
+* [Poly Kole's paintings](https://pollykole.com/){:target="_blank"} - Портфолио художника в виде 3D тура
+* [Pottinghed](https://pottingshed.com/){:target="_blank"} - Крутой визуал
+* [Powerhouse company](https://www.powerhouse-company.com/){:target="_blank"} - Крутые плитки с проектами
+* [Readwood empire whiskey](https://earthmonth.redwoodempirewhiskey.com/){:target="_blank"} - стилизованные изображения
+* [R64X](https://r64x.com/){:target="_blank"} - Галерея цифрового искусства
+* [SAP](https://www.sap.com/dmc/exp/2020-07-design-to-operate){:target="_blank"} - Интерактивная презентация
+* [Selmore](https://selmore.com/en/){:target="_blank"} - Общий стиль, переходы
+* [Signing](https://signing.co.jp/){:target="_blank"} - Общий стиль
+* [Singularity App](https://singularity-app.com/ru/#promo-screen){:target="_blank"} - Приятный дизайн
+* [Sketch of three.js](https://ykob.github.io/sketch-threejs/){:target="_blank"} - Крутой визуал на three.js
+* [Species in pieces](http://species-in-pieces.com/#){:target="_blank"} - low-poly графика и переходы
+* [Stanford](https://stanford.kiev.ua/){:target="_blank"} - Переходы и общий стиль
+* [Stonewave](https://www.stonewave.net/){:target="_blank"} - Стильный сайт студии
+* [Studio digital](https://www.studiodigital.at/){:target="_blank"} - Интересные карточки
+* [Superfluid](https://getsuperfluid.com/){:target="_blank"} - Стильно. Модно. Молодежно.
+* [Symbols 2](https://symbols.designessentials.co/){:target="_blank"} - Крутой скролл
+* [Teca](https://teca.ee/){:target="_blank"} - Минималистично и стильно, но купился на архитектуру
+* [The endless co.](https://theendless.co/){:target="_blank"} - Двойной главный экран
+* [Threejs journey](https://threejs-journey.xyz/){:target="_blank"} - Как надо продавать курсы по моделированию
+* [Ultrasupernew](https://ultrasupernew.com/){:target="_blank"} - Очень крутой 3D города
+* [Vazquez](https://www.vazquez.nl/){:target="_blank"} - Эффект наложения текста
+* [Virtual economy](https://atelier.net/virtual-economy/){:target="_blank"} - Длинный текст, полно интересных эффектов
+* [Will Rust](https://www.willrust.co/){:target="_blank"} - Аккуратное портфолио
+* [Yourra](https://yourra.fr/){:target="_blank"} - Веб-студия с приятным дизайном и гавайскими мотивами
+* [Yamauchi No.10 Family Office](https://y-n10.com/){:target="_blank"} - Шикарный визуал в стиле NES
+* [Zorba group](https://zorba-group.com/en/){:target="_blank"} - Переходы и общий стиль
+* [Мы с Урала](https://xn-----8kca8cc4agt0f.xn--p1ai/){:target="_blank"} - Виды уральских красот на креативном сайте
+* [123 Insurance](https://www.123.ie/){:target="_blank"} - Приятный дизайн
