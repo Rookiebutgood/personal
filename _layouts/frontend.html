@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body style="padding: 0; width: 100%">
+    {% include header.html %}
+    <div style="display: flex;">
+      <div class="sidebar">
+        <ul class="sidebar__list">
+          <li class="sidebar__item">
+            <a href="/personal/frontend/react" class="sidebar__link">React</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Vue</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Angular</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Svelte</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Preact</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Ember</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Mythrill</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Riot</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">WebComponents</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Elm</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Purescript/closurescript</a>
+          </li>
+          <li class="sidebar__item">
+            <a href="" class="sidebar__link">Flutter</a>
+          </li>
+          <!-- 
+            * Rax?
+            * Aurelia?
+          -->
+        </ul>
+      </div>
+      {{ content }}
+    </div>
+  </body>
+</html>
