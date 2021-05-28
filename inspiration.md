@@ -29,11 +29,14 @@ title: List of cool sites
 * [Inspect this snake](https://matthewrayfield.com/goodies/inspect-this-snake/){:target="_blank"} - Автор запилил змейку внутри инспектора элементов
 * [Iron Velvet](https://ironvelvet.studio/){:target="_blank"} - Много крутых эффектов и графики
 * [Java Saga](https://javasagacoffee.com/){:target="_blank"} - Реклама кофейного ларька
+* [Lincor](https://lincorwatches.com/en/){:target="_blank"} - Общий стиль, эффекты на фото
 * [Mad](https://mad.ac/){:target="_blank"} - Крутой главный экран, который состоит из перетаскиваемых блоков
 * [Marseille laphase](https://marseille.laphase5.com/en){:target="_blank"} - Интерактивная карта
+* [Mazette](https://www.mazette.co/){:target="_blank"} - Эффект появления
 * [Meltdown Flags](https://www.meltdownflags.org/){:target="_blank"} - Графики в виде флагов разных стран
 * [Menu durable](https://menudurable.ca/en/){:target="_blank"} - Правильный минимализм
 * [Metrica](https://www.metrica.us/){:target="_blank"} - Понравилась главная страница
+* [Mogney](https://mogney.com/){:target="_blank"} - Идея с двумя экранами
 * [Moon Safari](https://www.moonsafari.archi/projets/){:target="_blank"} - Интересные переходы
 * [Mountaindew Rise](https://www.mountaindewrise.com/){:target="_blank"} - Крутой промо-сайт
 * [Nasdaq 50](https://www.nasdaq50.com/stories/){:target="_blank"} - Интерактивный таймлайн
@@ -62,8 +65,10 @@ title: List of cool sites
 * [The endless co.](https://theendless.co/){:target="_blank"} - Двойной главный экран
 * [Threejs journey](https://threejs-journey.xyz/){:target="_blank"} - Как надо продавать курсы по моделированию
 * [Ultrasupernew](https://ultrasupernew.com/){:target="_blank"} - Очень крутой 3D города
+* [Upper](https://uppertodo.com/){:target="_blank"} - Стиль и цвета 
 * [Vazquez](https://www.vazquez.nl/){:target="_blank"} - Эффект наложения текста
 * [Virtual economy](https://atelier.net/virtual-economy/){:target="_blank"} - Длинный текст, полно интересных эффектов
+* [West shore properties](https://borelliteam.com/home/){:target="_blank"} - Общий стиль
 * [Will Rust](https://www.willrust.co/){:target="_blank"} - Аккуратное портфолио
 * [Yourra](https://yourra.fr/){:target="_blank"} - Веб-студия с приятным дизайном и гавайскими мотивами
 * [Yamauchi No.10 Family Office](https://y-n10.com/){:target="_blank"} - Шикарный визуал в стиле NES
