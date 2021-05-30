@@ -28,6 +28,7 @@ title: List of cool sites
 * [Incube](https://designer.incube.agency/){:target="_blank"} - Стильный поиск дизайнера
 * [Inspect this snake](https://matthewrayfield.com/goodies/inspect-this-snake/){:target="_blank"} - Автор запилил змейку внутри инспектора элементов
 * [Iron Velvet](https://ironvelvet.studio/){:target="_blank"} - Много крутых эффектов и графики
+* [I spy](https://ispy.heihei.resn.co/){:target="_blank"} - Игра "Найти персонажа в толпе" 
 * [Java Saga](https://javasagacoffee.com/){:target="_blank"} - Реклама кофейного ларька
 * [Lincor](https://lincorwatches.com/en/){:target="_blank"} - Общий стиль, эффекты на фото
 * [Mad](https://mad.ac/){:target="_blank"} - Крутой главный экран, который состоит из перетаскиваемых блоков
@@ -41,6 +42,7 @@ title: List of cool sites
 * [Mountaindew Rise](https://www.mountaindewrise.com/){:target="_blank"} - Крутой промо-сайт
 * [Nasdaq 50](https://www.nasdaq50.com/stories/){:target="_blank"} - Интерактивный таймлайн
 * [Orano](https://www.orano.group/experience/innovation/en/menu){:target="_blank"} - Много графики, есть интерактив типа управления краном
+* [Paul & Henriette](https://paulethenriette.com/){:target="_blank"} - Переключатель в шапке
 * [Peace price](https://peaceprizelaureates.nobelpeacecenter.org/en){:target="_blank"} - Инфографика с людьми, которые получали премию мира
 * [Penderecki's garden](https://pendereckisgarden.pl/en){:target="_blank"} - Графика из частиц
 * [Pitch](https://pitch.com/){:target="_blank"} - Приятный сайт, интересный элемент hero
@@ -48,12 +50,14 @@ title: List of cool sites
 * [Poly Kole's paintings](https://pollykole.com/){:target="_blank"} - Портфолио художника в виде 3D тура
 * [Pottinghed](https://pottingshed.com/){:target="_blank"} - Крутой визуал
 * [Powerhouse company](https://www.powerhouse-company.com/){:target="_blank"} - Крутые плитки с проектами
+* [Programatorio](https://programatorio.com/en){:target="_blank"} - Главный экран
 * [Readwood empire whiskey](https://earthmonth.redwoodempirewhiskey.com/){:target="_blank"} - стилизованные изображения
 * [R64X](https://r64x.com/){:target="_blank"} - Галерея цифрового искусства
 * [SAP](https://www.sap.com/dmc/exp/2020-07-design-to-operate){:target="_blank"} - Интерактивная презентация
 * [Selmore](https://selmore.com/en/){:target="_blank"} - Общий стиль, переходы
 * [Signing](https://signing.co.jp/){:target="_blank"} - Общий стиль
 * [Singularity App](https://singularity-app.com/ru/#promo-screen){:target="_blank"} - Приятный дизайн
+* [Six fields](https://www.sixfields.com/){:target="_blank"} - Шикарный стартовый экран
 * [Sketch of three.js](https://ykob.github.io/sketch-threejs/){:target="_blank"} - Крутой визуал на three.js
 * [Species in pieces](http://species-in-pieces.com/#){:target="_blank"} - low-poly графика и переходы
 * [Stanford](https://stanford.kiev.ua/){:target="_blank"} - Переходы и общий стиль
