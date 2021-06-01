@@ -32,9 +32,9 @@ title: Blog
   </ul>
   <div style="position: relative;">
     {% if paginator.previous_page_path %}
-    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" style="position: absolute; left: 0">Назад</a>
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" style="position: absolute; left: 0; font-size: 18px; font-weight: bold;">Назад</a>
   {% endif %}
   {% if paginator.next_page_path %}
-    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" style="position: absolute; right: 0">Дальше</a>
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" style="position: absolute; right: 0; font-size: 18px; font-weight: bold;">Дальше</a>
   {% endif %}
   </div>
