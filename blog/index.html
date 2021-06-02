@@ -6,8 +6,10 @@ title: Blog
 <ul class="blog-list">
     {% for post in paginator.posts %}
       <li class="blog-list__item">
-        <a class="blog-list__link" href="{{ site.baseurl }}{{ post.url}}"> {{ post.title }}</a>
-        <span class="blog-list__tag">{{ post.tag }}</span>
+        <div class="blog-list__title-wrapper">
+          <a class="blog-list__link" href="{{ site.baseurl }}{{ post.url}}"> {{ post.title }}</a>
+          <span class="blog-list__tag">{{ post.tag }}</span>
+        </div>
         <div class="blog-list__date">
           {% assign m = post.date | date: "%-m" %}
           {{ post.date | date: "%-d" }}
