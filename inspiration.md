@@ -29,11 +29,14 @@ title: List of cool sites
 * [Inspect this snake](https://matthewrayfield.com/goodies/inspect-this-snake/){:target="_blank"} - Автор запилил змейку внутри инспектора элементов
 * [Iron Velvet](https://ironvelvet.studio/){:target="_blank"} - Много крутых эффектов и графики
 * [I spy](https://ispy.heihei.resn.co/){:target="_blank"} - Игра "Найти персонажа в толпе" 
+* [Gucci beloved bounce](https://guccibelovedbounce.gucci.com/){:target="_blank"} - Хоть где-то у меня будет гучи
 * [Java Saga](https://javasagacoffee.com/){:target="_blank"} - Реклама кофейного ларька
 * [Lincor](https://lincorwatches.com/en/){:target="_blank"} - Общий стиль, эффекты на фото
 * [Mad](https://mad.ac/){:target="_blank"} - Крутой главный экран, который состоит из перетаскиваемых блоков
+* [Mama Joyce Peppa Sauce](https://www.peppasauce.love/){:target="_blank"} - Отличная реклама соуса
 * [Marseille laphase](https://marseille.laphase5.com/en){:target="_blank"} - Интерактивная карта
 * [Mazette](https://www.mazette.co/){:target="_blank"} - Эффект появления
+* [Meadlight](https://meadlight.com/en){:target="_blank"} - Бутылка мёда
 * [Meltdown Flags](https://www.meltdownflags.org/){:target="_blank"} - Графики в виде флагов разных стран
 * [Menu durable](https://menudurable.ca/en/){:target="_blank"} - Правильный минимализм
 * [Metrica](https://www.metrica.us/){:target="_blank"} - Понравилась главная страница
@@ -65,6 +68,7 @@ title: List of cool sites
 * [Studio digital](https://www.studiodigital.at/){:target="_blank"} - Интересные карточки
 * [Superfluid](https://getsuperfluid.com/){:target="_blank"} - Стильно. Модно. Молодежно.
 * [Symbols 2](https://symbols.designessentials.co/){:target="_blank"} - Крутой скролл
+* [TableTopy](https://tabletopy.com/){:target="_blank"} - Прикольный инструмент для атмосферных игр
 * [Teca](https://teca.ee/){:target="_blank"} - Минималистично и стильно, но купился на архитектуру
 * [The endless co.](https://theendless.co/){:target="_blank"} - Двойной главный экран
 * [Threejs journey](https://threejs-journey.xyz/){:target="_blank"} - Как надо продавать курсы по моделированию
