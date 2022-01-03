@@ -6,6 +6,7 @@ title: List of cool sites
 ###### List of cool sites, mostly from Awwwards
 * [Albino Tonnina](https://albinotonnina.com/){:target="_blank"} - Портфолио в виде истории
 * [Alibi brewing](https://alibibrewing.co.nz/){:target="_blank"} - Общий стиль, анимация с банками
+* [Aristide Benoist](https://www.aristidebenoist.com/){:target="_blank"} - Крутой слайдер
 * [Bazzile](https://bazzile.ch/users){:target="_blank"} - Тиндер с квартирами
 * [Block Rage](https://blockrage.pgs-soft.com/){:target="_blank"} - Эмулятор старого компьютера
 * [Bluehamham](https://bluehamham.com/){:target="_blank"} - Промосайт синих хомячков
@@ -15,15 +16,18 @@ title: List of cool sites
 * [Car design history](https://www.cardesignhistory.com/){:target="_blank"} - инфографика, ретро автомобили
 * [Cetrucflotte](https://cetrucflotte.com/){:target="_blank"} - Стопки фотографий
 * [Cloud top print](https://www.cloudtoprint.co.uk/){:target="_blank"} - Общий стиль
+* [Colors combinations](https://colors.combinations.obys.agency/){:target="_blank"} - Вдохновение цветами
 * [Deep Sea](https://neal.fun/deep-sea/){:target="_blank"} - Инфографика про морские пучины
 * [Denim](https://www.lyst.com/denim-report){:target="_blank"} - Интересная реализация скролла
 * [Designli](https://designli.co/){:target="_blank"} - Красивая рисовка
 * [Donate responsibly](https://donateresponsibly.org/){:target="_blank"} - Очень хорошая инфографика
+* [Egorov agency](https://ar.egorovagency.com/){:target="_blank"} - Много 3D
 * [Elantis](https://pret-travaux-amenagement.elantis.be/fr){:target="_blank"} - Стилизация под бумажные фигурки
 * [Estee Lauder](https://www.esteelauderanrcade.com/en-us/hub/){:target="_blank"} - Набор миниигр
 * [Everleaf](https://www.everleafdrinks.com/){:target="_blank"} - Дело наверное в фото
 * [Everpost](https://www.start.everpost.com/){:target="_blank"} - Очень крутой скролл
 * [Evolution of stock photography](https://evolution.depositphotos.com/){:target="_blank"} - Слайдер в виде кольца вокруг шара
+* [Foodie marketing](https://www.foodie-marketing.com.au/){:target="_blank"} - Вся такая милая еда
 * [Henrik & Sofia](https://henrikandsofia.com/){:target="_blank"} - Портфолио креативной парочки
 * [Incube](https://designer.incube.agency/){:target="_blank"} - Стильный поиск дизайнера
 * [Inspect this snake](https://matthewrayfield.com/goodies/inspect-this-snake/){:target="_blank"} - Автор запилил змейку внутри инспектора элементов
@@ -43,18 +47,22 @@ title: List of cool sites
 * [Mogney](https://mogney.com/){:target="_blank"} - Идея с двумя экранами
 * [Moon Safari](https://www.moonsafari.archi/projets/){:target="_blank"} - Интересные переходы
 * [Mountaindew Rise](https://www.mountaindewrise.com/){:target="_blank"} - Крутой промо-сайт
+* [Mythbusterchallenge](https://www.mythbusterchallenge.com/){:target="_blank"} - Полёты в облаках
 * [Nasdaq 50](https://www.nasdaq50.com/stories/){:target="_blank"} - Интерактивный таймлайн
 * [Orano](https://www.orano.group/experience/innovation/en/menu){:target="_blank"} - Много графики, есть интерактив типа управления краном
 * [Paul & Henriette](https://paulethenriette.com/){:target="_blank"} - Переключатель в шапке
 * [Peace price](https://peaceprizelaureates.nobelpeacecenter.org/en){:target="_blank"} - Инфографика с людьми, которые получали премию мира
 * [Penderecki's garden](https://pendereckisgarden.pl/en){:target="_blank"} - Графика из частиц
 * [Pitch](https://pitch.com/){:target="_blank"} - Приятный сайт, интересный элемент hero
+* [Pleada](https://pleada.shop/zhnavasilevskom){:target="_blank"} - Фотографии и их размещение
 * [Polygon](https://polygondesign.com.au/){:target="_blank"} - Крутой скролл с панорамным видом
 * [Poly Kole's paintings](https://pollykole.com/){:target="_blank"} - Портфолио художника в виде 3D тура
+* [PopCorn SyFy](https://popcorn-syfy.com/){:target="_blank"} - Очень много отсылок к фильмам и сериалам
 * [Pottinghed](https://pottingshed.com/){:target="_blank"} - Крутой визуал
 * [Powerhouse company](https://www.powerhouse-company.com/){:target="_blank"} - Крутые плитки с проектами
 * [Programatorio](https://programatorio.com/en){:target="_blank"} - Главный экран
 * [Readwood empire whiskey](https://earthmonth.redwoodempirewhiskey.com/){:target="_blank"} - стилизованные изображения
+* [Rebirth from the ashes](https://rebirthfromtheashes.com/){:target="_blank"} - ASCII картинки
 * [R64X](https://r64x.com/){:target="_blank"} - Галерея цифрового искусства
 * [SAP](https://www.sap.com/dmc/exp/2020-07-design-to-operate){:target="_blank"} - Интерактивная презентация
 * [Selmore](https://selmore.com/en/){:target="_blank"} - Общий стиль, переходы
@@ -62,6 +70,7 @@ title: List of cool sites
 * [Singularity App](https://singularity-app.com/ru/#promo-screen){:target="_blank"} - Приятный дизайн
 * [Six fields](https://www.sixfields.com/){:target="_blank"} - Шикарный стартовый экран
 * [Sketch of three.js](https://ykob.github.io/sketch-threejs/){:target="_blank"} - Крутой визуал на three.js
+* [Skybar](https://skybar.ebc.redhat.com/){:target="_blank"} - Стильное промо бара
 * [Species in pieces](http://species-in-pieces.com/#){:target="_blank"} - low-poly графика и переходы
 * [Stanford](https://stanford.kiev.ua/){:target="_blank"} - Переходы и общий стиль
 * [Stonewave](https://www.stonewave.net/){:target="_blank"} - Стильный сайт студии
@@ -74,6 +83,7 @@ title: List of cool sites
 * [Threejs journey](https://threejs-journey.xyz/){:target="_blank"} - Как надо продавать курсы по моделированию
 * [Ultrasupernew](https://ultrasupernew.com/){:target="_blank"} - Очень крутой 3D города
 * [Upper](https://uppertodo.com/){:target="_blank"} - Стиль и цвета 
+* [Varsity](https://www.varsity.com.au/){:target="_blank"} - Просто стильные бургеры 
 * [Vazquez](https://www.vazquez.nl/){:target="_blank"} - Эффект наложения текста
 * [Virtual economy](https://atelier.net/virtual-economy/){:target="_blank"} - Длинный текст, полно интересных эффектов
 * [West shore properties](https://borelliteam.com/home/){:target="_blank"} - Общий стиль
