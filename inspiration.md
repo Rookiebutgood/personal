@@ -27,6 +27,7 @@ title: List of cool sites
 * [Everleaf](https://www.everleafdrinks.com/){:target="_blank"} - Дело наверное в фото
 * [Everpost](https://www.start.everpost.com/){:target="_blank"} - Очень крутой скролл
 * [Evolution of stock photography](https://evolution.depositphotos.com/){:target="_blank"} - Слайдер в виде кольца вокруг шара
+* [Ferro13](https://ferro13.it/it){:target="_blank"} - Шикарное промо вина
 * [Foodie marketing](https://www.foodie-marketing.com.au/){:target="_blank"} - Вся такая милая еда
 * [Henrik & Sofia](https://henrikandsofia.com/){:target="_blank"} - Портфолио креативной парочки
 * [Incube](https://designer.incube.agency/){:target="_blank"} - Стильный поиск дизайнера
@@ -35,6 +36,7 @@ title: List of cool sites
 * [I spy](https://ispy.heihei.resn.co/){:target="_blank"} - Игра "Найти персонажа в толпе" 
 * [Gucci beloved bounce](https://guccibelovedbounce.gucci.com/){:target="_blank"} - Хоть где-то у меня будет гучи
 * [Java Saga](https://javasagacoffee.com/){:target="_blank"} - Реклама кофейного ларька
+* [Kplusfilm](https://kplusfilm.com/){:target="_blank"} - Стильное кино-портфолио
 * [Lincor](https://lincorwatches.com/en/){:target="_blank"} - Общий стиль, эффекты на фото
 * [Mad](https://mad.ac/){:target="_blank"} - Крутой главный экран, который состоит из перетаскиваемых блоков
 * [Mama Joyce Peppa Sauce](https://www.peppasauce.love/){:target="_blank"} - Отличная реклама соуса
@@ -63,6 +65,7 @@ title: List of cool sites
 * [Programatorio](https://programatorio.com/en){:target="_blank"} - Главный экран
 * [Readwood empire whiskey](https://earthmonth.redwoodempirewhiskey.com/){:target="_blank"} - стилизованные изображения
 * [Rebirth from the ashes](https://rebirthfromtheashes.com/){:target="_blank"} - ASCII картинки
+* [Resn](https://www.resn.co.nz/){:target="_blank"} - Крутой сайт крутой студии
 * [R64X](https://r64x.com/){:target="_blank"} - Галерея цифрового искусства
 * [SAP](https://www.sap.com/dmc/exp/2020-07-design-to-operate){:target="_blank"} - Интерактивная презентация
 * [Selmore](https://selmore.com/en/){:target="_blank"} - Общий стиль, переходы
@@ -78,6 +81,7 @@ title: List of cool sites
 * [Superfluid](https://getsuperfluid.com/){:target="_blank"} - Стильно. Модно. Молодежно.
 * [Symbols 2](https://symbols.designessentials.co/){:target="_blank"} - Крутой скролл
 * [TableTopy](https://tabletopy.com/){:target="_blank"} - Прикольный инструмент для атмосферных игр
+* [Teamway](https://teamway.io/){:target="_blank"} - Простой, симпатичный сайт
 * [Teca](https://teca.ee/){:target="_blank"} - Минималистично и стильно, но купился на архитектуру
 * [The endless co.](https://theendless.co/){:target="_blank"} - Двойной главный экран
 * [Threejs journey](https://threejs-journey.xyz/){:target="_blank"} - Как надо продавать курсы по моделированию
