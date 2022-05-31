@@ -4,9 +4,11 @@ title: List of cool sites
 ---
 
 ###### List of cool sites, mostly from Awwwards
+
 * [Albino Tonnina](https://albinotonnina.com/){:target="_blank"} - Портфолио в виде истории
 * [Alibi brewing](https://alibibrewing.co.nz/){:target="_blank"} - Общий стиль, анимация с банками
 * [Aristide Benoist](https://www.aristidebenoist.com/){:target="_blank"} - Крутой слайдер
+* [Artisansdidees](https://www.artisansdidees.com/en){:target="_blank"} - Погоня за световым лучом
 * [Bazzile](https://bazzile.ch/users){:target="_blank"} - Тиндер с квартирами
 * [Block Rage](https://blockrage.pgs-soft.com/){:target="_blank"} - Эмулятор старого компьютера
 * [Bluehamham](https://bluehamham.com/){:target="_blank"} - Промосайт синих хомячков
@@ -20,6 +22,7 @@ title: List of cool sites
 * [Deep Sea](https://neal.fun/deep-sea/){:target="_blank"} - Инфографика про морские пучины
 * [Denim](https://www.lyst.com/denim-report){:target="_blank"} - Интересная реализация скролла
 * [Designli](https://designli.co/){:target="_blank"} - Красивая рисовка
+* [Distillerie trois lacs](https://distillerietroislacs.ca/){:target="_blank"} - 3D банка, цвета
 * [Donate responsibly](https://donateresponsibly.org/){:target="_blank"} - Очень хорошая инфографика
 * [Egorov agency](https://ar.egorovagency.com/){:target="_blank"} - Много 3D
 * [Elantis](https://pret-travaux-amenagement.elantis.be/fr){:target="_blank"} - Стилизация под бумажные фигурки
@@ -34,9 +37,13 @@ title: List of cool sites
 * [Inspect this snake](https://matthewrayfield.com/goodies/inspect-this-snake/){:target="_blank"} - Автор запилил змейку внутри инспектора элементов
 * [Iron Velvet](https://ironvelvet.studio/){:target="_blank"} - Много крутых эффектов и графики
 * [I spy](https://ispy.heihei.resn.co/){:target="_blank"} - Игра "Найти персонажа в толпе" 
+* [Global New Yorker](https://globalnewyorker.com/){:target="_blank"} - Идея и вертикальный скрол
 * [Gucci beloved bounce](https://guccibelovedbounce.gucci.com/){:target="_blank"} - Хоть где-то у меня будет гучи
+* [James Lee Julier](https://www.jamesleejulier.com/){:target="_blank"} - Плавающее портфолио 
 * [Java Saga](https://javasagacoffee.com/){:target="_blank"} - Реклама кофейного ларька
+* [Kirifuda](https://kirifuda.co.jp/){:target="_blank"} - Крутейший визуал всего
 * [Kplusfilm](https://kplusfilm.com/){:target="_blank"} - Стильное кино-портфолио
+* [Kuum](https://www.kuum.jp/){:target="_blank"} - Эффект при скроле 
 * [Lincor](https://lincorwatches.com/en/){:target="_blank"} - Общий стиль, эффекты на фото
 * [Mad](https://mad.ac/){:target="_blank"} - Крутой главный экран, который состоит из перетаскиваемых блоков
 * [Mama Joyce Peppa Sauce](https://www.peppasauce.love/){:target="_blank"} - Отличная реклама соуса
@@ -51,6 +58,7 @@ title: List of cool sites
 * [Mountaindew Rise](https://www.mountaindewrise.com/){:target="_blank"} - Крутой промо-сайт
 * [Mythbusterchallenge](https://www.mythbusterchallenge.com/){:target="_blank"} - Полёты в облаках
 * [Nasdaq 50](https://www.nasdaq50.com/stories/){:target="_blank"} - Интерактивный таймлайн
+* [Ohzi](https://ohzi.io/){:target="_blank"} - Кубик
 * [Orano](https://www.orano.group/experience/innovation/en/menu){:target="_blank"} - Много графики, есть интерактив типа управления краном
 * [Paul & Henriette](https://paulethenriette.com/){:target="_blank"} - Переключатель в шапке
 * [Peace price](https://peaceprizelaureates.nobelpeacecenter.org/en){:target="_blank"} - Инфографика с людьми, которые получали премию мира
