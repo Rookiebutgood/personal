@@ -3,13 +3,12 @@ layout: base
 title: List of cool sites
 ---
 
-###### List of cool sites, mostly from Awwwards
+List of cool sites, mostly from Awwwards
 
 - [Albino Tonnina](https://albinotonnina.com/){:target="_blank"} - Портфолио в виде истории
 - [Alibi brewing](https://alibibrewing.co.nz/){:target="_blank"} - Общий стиль, анимация с банками
-- [Aristide Benoist](https://www.aristidebenoist.com/){:target="_blank"} - Крутой слайдер
+- [Aristide Benoist](https://www.aristidebenoist.com/){:target="_blank"} - Крутой слайдер в виде гармошки
 - [Artisansdidees](https://www.artisansdidees.com/en){:target="_blank"} - Погоня за световым лучом
-- [Bazzile](https://bazzile.ch/users){:target="_blank"} - Тиндер с квартирами
 - [Block Rage](https://blockrage.pgs-soft.com/){:target="_blank"} - Эмулятор старого компьютера
 - [Bluehamham](https://bluehamham.com/){:target="_blank"} - Промосайт синих хомячков
 - [Bold type hotel](https://theboldtypehotel.com/){:target="_blank"} - Просто и стильно
@@ -17,7 +16,6 @@ title: List of cool sites
 - [Candy fish](https://candy.fish/){:target="_blank"} - Много рисунков с паралаксом
 - [Car design history](https://www.cardesignhistory.com/){:target="_blank"} - инфографика, ретро автомобили
 - [Cetrucflotte](https://cetrucflotte.com/){:target="_blank"} - Стопки фотографий
-- [Cloud top print](https://www.cloudtoprint.co.uk/){:target="_blank"} - Общий стиль
 - [Colors combinations](https://colors.combinations.obys.agency/){:target="_blank"} - Вдохновение цветами
 - [Dave Seidman](https://daveseidman.com/){:target="_blank"} - Портфолио с кучей 3D
 - [Deep Sea](https://neal.fun/deep-sea/){:target="_blank"} - Инфографика про морские пучины
@@ -25,6 +23,7 @@ title: List of cool sites
 - [Designli](https://designli.co/){:target="_blank"} - Красивая рисовка
 - [Distillerie trois lacs](https://distillerietroislacs.ca/){:target="_blank"} - 3D банка, цвета
 - [Donate responsibly](https://donateresponsibly.org/){:target="_blank"} - Очень хорошая инфографика
+- 
 - [Egorov agency](https://ar.egorovagency.com/){:target="_blank"} - Много 3D
 - [Elantis](https://pret-travaux-amenagement.elantis.be/fr){:target="_blank"} - Стилизация под бумажные фигурки
 - [Estee Lauder](https://www.esteelauderanrcade.com/en-us/hub/){:target="_blank"} - Набор миниигр
@@ -108,3 +107,8 @@ title: List of cool sites
 - [Zorba group](https://zorba-group.com/en/){:target="_blank"} - Переходы и общий стиль
 - [Мы с Урала](https://xn-----8kca8cc4agt0f.xn--p1ai/){:target="_blank"} - Виды уральских красот на креативном сайте
 - [123 Insurance](https://www.123.ie/){:target="_blank"} - Приятный дизайн
+
+Outdated
+
+- [Bazzile](https://bazzile.ch/users){:target="_blank"} - Тиндер с квартирами
+- [Cloud top print](https://www.cloudtoprint.co.uk/){:target="_blank"} - Общий стиль
