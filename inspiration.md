@@ -24,6 +24,7 @@ List of cool sites, mostly from Awwwards
 - [Designli](https://designli.co/){:target="_blank"} - Красивая рисовка
 - [Distillerie trois lacs](https://distillerietroislacs.ca/){:target="_blank"} - 3D банка, цвета
 - [Donate responsibly](https://donateresponsibly.org/){:target="_blank"} - Очень хорошая инфографика
+- [Eatrenalin](https://www.eatrenalin.de/en/){:target="_blank"} - Красивый скролл
 - [Egorov agency](https://ar.egorovagency.com/){:target="_blank"} - Много 3D
 - [Estee Lauder](https://www.esteelauderanrcade.com/en-us/hub/){:target="_blank"} - Набор миниигр
 - [Everleaf](https://www.everleafdrinks.com/){:target="_blank"} - Дело наверное в фото
@@ -41,6 +42,7 @@ List of cool sites, mostly from Awwwards
 - [James Lee Julier](https://www.jamesleejulier.com/){:target="_blank"} - Плавающее портфолио 
 - [Kirifuda](https://kirifuda.co.jp/){:target="_blank"} - Крутейший визуал всего
 - [Kplusfilm](https://kplusfilm.com/){:target="_blank"} - Стильное кино-портфолио
+- [Kubota](https://www.kubota.com/futurecube/){:target="_blank"} - Крутейший визуал, презентация города будущего
 - [Lincor](https://lincorwatches.com/en/){:target="_blank"} - Общий стиль, эффекты на фото
 - [Mad](https://mad.ac/){:target="_blank"} - Крутой главный экран, который состоит из перетаскиваемых блоков
 - [Mama Joyce Peppa Sauce](https://www.peppasauce.love/){:target="_blank"} - Отличная реклама соуса
