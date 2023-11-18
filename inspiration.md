@@ -5,6 +5,7 @@ title: List of cool sites
 
 List of cool sites, mostly from Awwwards
 
+- [123 Insurance](https://www.123.ie/){:target="_blank"} - Приятный дизайн
 - [Albino Tonnina](https://albinotonnina.com/){:target="_blank"} - Портфолио в виде истории
 - [Alibi brewing](https://alibibrewing.co.nz/){:target="_blank"} - Общий стиль, анимация с банками
 - [Aristide Benoist](https://www.aristidebenoist.com/){:target="_blank"} - Крутой слайдер в виде гармошки
@@ -23,9 +24,7 @@ List of cool sites, mostly from Awwwards
 - [Designli](https://designli.co/){:target="_blank"} - Красивая рисовка
 - [Distillerie trois lacs](https://distillerietroislacs.ca/){:target="_blank"} - 3D банка, цвета
 - [Donate responsibly](https://donateresponsibly.org/){:target="_blank"} - Очень хорошая инфографика
-- 
 - [Egorov agency](https://ar.egorovagency.com/){:target="_blank"} - Много 3D
-- [Elantis](https://pret-travaux-amenagement.elantis.be/fr){:target="_blank"} - Стилизация под бумажные фигурки
 - [Estee Lauder](https://www.esteelauderanrcade.com/en-us/hub/){:target="_blank"} - Набор миниигр
 - [Everleaf](https://www.everleafdrinks.com/){:target="_blank"} - Дело наверное в фото
 - [Everpost](https://www.start.everpost.com/){:target="_blank"} - Очень крутой скролл
@@ -40,10 +39,8 @@ List of cool sites, mostly from Awwwards
 - [Global New Yorker](https://globalnewyorker.com/){:target="_blank"} - Идея и вертикальный скрол
 - [Gucci beloved bounce](https://guccibelovedbounce.gucci.com/){:target="_blank"} - Хоть где-то у меня будет гучи
 - [James Lee Julier](https://www.jamesleejulier.com/){:target="_blank"} - Плавающее портфолио 
-- [Java Saga](https://javasagacoffee.com/){:target="_blank"} - Реклама кофейного ларька
 - [Kirifuda](https://kirifuda.co.jp/){:target="_blank"} - Крутейший визуал всего
 - [Kplusfilm](https://kplusfilm.com/){:target="_blank"} - Стильное кино-портфолио
-- [Kuum](https://www.kuum.jp/){:target="_blank"} - Эффект при скроле 
 - [Lincor](https://lincorwatches.com/en/){:target="_blank"} - Общий стиль, эффекты на фото
 - [Mad](https://mad.ac/){:target="_blank"} - Крутой главный экран, который состоит из перетаскиваемых блоков
 - [Mama Joyce Peppa Sauce](https://www.peppasauce.love/){:target="_blank"} - Отличная реклама соуса
@@ -53,18 +50,14 @@ List of cool sites, mostly from Awwwards
 - [Meltdown Flags](https://www.meltdownflags.org/){:target="_blank"} - Графики в виде флагов разных стран
 - [Menu durable](https://menudurable.ca/en/){:target="_blank"} - Правильный минимализм
 - [Metrica](https://www.metrica.us/){:target="_blank"} - Понравилась главная страница
-- [Mogney](https://mogney.com/){:target="_blank"} - Идея с двумя экранами
 - [Moon Safari](https://www.moonsafari.archi/projets/){:target="_blank"} - Интересные переходы
 - [Mountaindew Rise](https://www.mountaindewrise.com/){:target="_blank"} - Крутой промо-сайт
-- [Mythbusterchallenge](https://www.mythbusterchallenge.com/){:target="_blank"} - Полёты в облаках
-- [Nasdaq 50](https://www.nasdaq50.com/stories/){:target="_blank"} - Интерактивный таймлайн
 - [Ohzi](https://ohzi.io/){:target="_blank"} - Кубик
 - [Orano](https://www.orano.group/experience/innovation/en/menu){:target="_blank"} - Много графики, есть интерактив типа управления краном
 - [Paul & Henriette](https://paulethenriette.com/){:target="_blank"} - Переключатель в шапке
 - [Peace price](https://peaceprizelaureates.nobelpeacecenter.org/en){:target="_blank"} - Инфографика с людьми, которые получали премию мира
 - [Penderecki's garden](https://pendereckisgarden.pl/en){:target="_blank"} - Графика из частиц
 - [Pitch](https://pitch.com/){:target="_blank"} - Приятный сайт, интересный элемент hero
-- [Pleada](https://pleada.shop/zhnavasilevskom){:target="_blank"} - Фотографии и их размещение
 - [Polygon](https://polygondesign.com.au/){:target="_blank"} - Крутой скролл с панорамным видом
 - [Poly Kole's paintings](https://pollykole.com/){:target="_blank"} - Портфолио художника в виде 3D тура
 - [PopCorn SyFy](https://popcorn-syfy.com/){:target="_blank"} - Очень много отсылок к фильмам и сериалам
@@ -88,8 +81,6 @@ List of cool sites, mostly from Awwwards
 - [Stanford](https://stanford.kiev.ua/){:target="_blank"} - Переходы и общий стиль
 - [Stonewave](https://www.stonewave.net/){:target="_blank"} - Стильный сайт студии
 - [Studio digital](https://www.studiodigital.at/){:target="_blank"} - Интересные карточки
-- [Superfluid](https://getsuperfluid.com/){:target="_blank"} - Стильно. Модно. Молодежно.
-- [Symbols 2](https://symbols.designessentials.co/){:target="_blank"} - Крутой скролл
 - [TableTopy](https://tabletopy.com/){:target="_blank"} - Прикольный инструмент для атмосферных игр
 - [Teamway](https://teamway.io/){:target="_blank"} - Простой, симпатичный сайт
 - [Teca](https://teca.ee/){:target="_blank"} - Минималистично и стильно, но купился на архитектуру
@@ -98,17 +89,25 @@ List of cool sites, mostly from Awwwards
 - [Ultrasupernew](https://ultrasupernew.com/){:target="_blank"} - Очень крутой 3D города
 - [Upper](https://uppertodo.com/){:target="_blank"} - Стиль и цвета 
 - [Varsity](https://www.varsity.com.au/){:target="_blank"} - Просто стильные бургеры 
-- [Vazquez](https://www.vazquez.nl/){:target="_blank"} - Эффект наложения текста
 - [Virtual economy](https://atelier.net/virtual-economy/){:target="_blank"} - Длинный текст, полно интересных эффектов
-- [West shore properties](https://borelliteam.com/home/){:target="_blank"} - Общий стиль
 - [Will Rust](https://www.willrust.co/){:target="_blank"} - Аккуратное портфолио
-- [Yourra](https://yourra.fr/){:target="_blank"} - Веб-студия с приятным дизайном и гавайскими мотивами
 - [Yamauchi No.10 Family Office](https://y-n10.com/){:target="_blank"} - Шикарный визуал в стиле NES
 - [Zorba group](https://zorba-group.com/en/){:target="_blank"} - Переходы и общий стиль
 - [Мы с Урала](https://xn-----8kca8cc4agt0f.xn--p1ai/){:target="_blank"} - Виды уральских красот на креативном сайте
-- [123 Insurance](https://www.123.ie/){:target="_blank"} - Приятный дизайн
 
 Outdated
 
 - [Bazzile](https://bazzile.ch/users){:target="_blank"} - Тиндер с квартирами
 - [Cloud top print](https://www.cloudtoprint.co.uk/){:target="_blank"} - Общий стиль
+- [Elantis](https://pret-travaux-amenagement.elantis.be/fr){:target="_blank"} - Стилизация под бумажные фигурки
+- [Java Saga](https://javasagacoffee.com/){:target="_blank"} - Реклама кофейного ларька
+- [Kuum](https://www.kuum.jp/){:target="_blank"} - Эффект при скроле
+- [Mogney](https://mogney.com/){:target="_blank"} - Идея с двумя экранами
+- [Mythbusterchallenge](https://www.mythbusterchallenge.com/){:target="_blank"} - Полёты в облаках
+- [Nasdaq 50](https://www.nasdaq50.com/stories/){:target="_blank"} - Интерактивный таймлайн
+- [Pleada](https://pleada.shop/zhnavasilevskom){:target="_blank"} - Фотографии и их размещение
+- [Superfluid](https://getsuperfluid.com/){:target="_blank"} - Стильно. Модно. Молодежно.
+- [Symbols 2](https://symbols.designessentials.co/){:target="_blank"} - Крутой скролл
+- [Vazquez](https://www.vazquez.nl/){:target="_blank"} - Эффект наложения текста
+- [West shore properties](https://borelliteam.com/home/){:target="_blank"} - Общий стиль
+- [Yourra](https://yourra.fr/){:target="_blank"} - Веб-студия с приятным дизайном и гавайскими мотивами
