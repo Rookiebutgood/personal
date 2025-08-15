@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+  </head>
+  <body>
+      <div class="home">
+        <p class="home__titleText">This is some text about this blog.</p>
+        <p class="home__descText">This is some text about this blog.</p>
+        <ul class="home__cards">
+          <li class="homeCard">
+            <p class="homeCard__title">About CV</p>
+            <p>Some text</p>
+            <a href="{{ site.baseurl }}/about" class="homeCard__button">Перейти</a>
+          </li>
+          <li class="homeCard">
+            <p class="homeCard__title">Blog</p>
+            <p>Some text</p>
+            <a href="{{ site.baseurl }}/about" class="homeCard__button"></a>
+          </li>
+          <li class="homeCard">
+            <p class="homeCard__title">Projects</p>
+            <p>Some text</p>
+            <a href="{{ site.baseurl }}/about" class="homeCard__button"></a>
+          </li>
+        </ul>
+      </div>
+    <footer>
+    </footer>
+  </body>
+</html>
